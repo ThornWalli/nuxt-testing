@@ -1,14 +1,14 @@
 <template>
-    <div>
-     <ComponentA></ComponentA>
-     <ComponentB></ComponentB>
-    </div>
-  </template>
+  <div>
+    <span>Color Red</span>
+  </div>
+</template>
   
-  
-  <script setup>
-  
-  import ComponentA from '@/components/ComponentA'
-  import ComponentB from '@/components/ComponentB'
-  
-  </script>
+
+
+<!-- The entire script tag must be commented! -->
+<!-- <script>
+
+import '@/assets/css/vars.css';
+
+</script> -->
