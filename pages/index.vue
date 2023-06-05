@@ -4,11 +4,8 @@
   </div>
 </template>
   
+<script>
 
+// import '@/assets/css/vars.css';
 
-<!-- The entire script tag must be commented! -->
-<!-- <script>
-
-import '@/assets/css/vars.css';
-
-</script> -->
+</script>
